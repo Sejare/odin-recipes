@@ -1,15 +1,29 @@
+*{
+  background-color: #CE9D4E;
+}
 body{
+    margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
   }
 
-  .header{
-    color: blue;
+.header{
+    color: #FFFFD1;
     font-size: 30px;
     text-align: center;
-    background-color: lightblue;
-     }
+    background-color: #CE9D4E;
+    padding: 20px; 
+    border: 2px solid black;
+    margin: 0px;
+  }
 
-  .list{
+.list{
     font-size: 20px;
     margin-bottom: 10px;
+  }
+
+.doge {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
   }
