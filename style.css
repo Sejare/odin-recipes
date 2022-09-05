@@ -23,27 +23,12 @@ body{
     margin-bottom: 10px;
   }
 
-.lasagna{
+.lasagna, .cake, .cookie{
     display: block;
     height: 256px;
     width: 300px;
     padding: 30px
 }
-
-.cake{
-  display: block;
-  height: 256px;
-  width: 300px;
-  padding: 30px
-}
-
-.cookie{
-  display: block;
-  height: 256px;
-  width: 300px;
-  padding: 30px
-}
-
 
 .doge {
     display: block;
